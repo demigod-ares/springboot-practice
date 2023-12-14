@@ -1,0 +1,10 @@
+page48 Jackson for marshelling/unmarshelling
+page86 Global Exception Handeling
+page89 @ControllerAdvice
+page136 transactional boundaries at service
+Page150 content type JSON in http request header
+Page156 spring data JPA (VVI)
+Page165 all methods of JPA: www.luv2code.com/jpa-repository-javadoc
+Page182 HATEOAS spring-data-rest
+Page185 HAL
+Page186 Advanced feature of spring data rest

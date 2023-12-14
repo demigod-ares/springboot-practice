@@ -1,0 +1,6 @@
+48 ID generation strategy
+52 DAO
+55 Entity manager and data source
+74 JPQL
+79 JPQL Named Parameters
+104 Auto-create Tables
